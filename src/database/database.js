@@ -3,9 +3,9 @@ import Sequelize from "sequelize";
 export const sequelize = new Sequelize(
     "postgres", // db name,
     "root", // username
-    "root", // password
+    "omUeIQNvs2nkrmzf", // password
     {
-        host: "localhost",
+        host: "db.zgcgkizkfhatmwkijhpw.supabase.co",
         dialect: "postgres",
         // pool: {
         //   max: 5,
