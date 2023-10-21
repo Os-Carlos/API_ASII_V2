@@ -2,7 +2,7 @@ import Sequelize from "sequelize";
 
 export const sequelize = new Sequelize(
     "postgres", // db name,
-    "root", // username
+    "postgres", // username
     "omUeIQNvs2nkrmzf", // password
     {
         host: "db.zgcgkizkfhatmwkijhpw.supabase.co",
